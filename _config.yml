@@ -14,12 +14,12 @@ style: styles-5
 
 #Profile information
 name: Siddhant Kumar
-tagline: ML enthusiast
+tagline: Software Engineer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: saytosid@gmail.com
-phone: +91-9805097739
+phone: +44-7340183464
 website: saytosid.github.io #do not add http://
 linkedin: saytosid
 github: saytosid
